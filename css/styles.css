@@ -39,9 +39,7 @@ ul {
   color: #424242;
 }
 
-.rich{
-    
-}
+
 a {
   text-decoration: none;
 }
@@ -112,6 +110,7 @@ header {
 
 .bio img {
   max-width: 70%;
+  margin: 0 auto;
   margin-top: 20px;
 }
 
