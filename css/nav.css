@@ -46,7 +46,7 @@
 
 @media (min-width: 768px) {
 	.main-header {
-		height: 200px;
+		
 		justify-content: flex-end;
 	}
 	.site-logo {
